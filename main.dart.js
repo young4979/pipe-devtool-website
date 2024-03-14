@@ -51344,7 +51344,7 @@ A.NL.prototype={
 ki(){var s=this
 return A.aH(["author",s.a,"backcolor",s.b,"name",s.c,"notes",s.d,"radii",s.e,"switchBrand",s.f,"switchMount",s.r,"switchType",s.w],t.N,t.z)}}
 A.y6.prototype={
-J(a){return new A.p8(B.Bo,"Flutter Demo",A.a4J(null,A.a9H(B.M,B.B8),!0),null)}}
+J(a){return new A.p8(B.Bo,"pipe devtool",A.a4J(null,A.a9H(B.M,B.B8),!0),null)}}
 A.pj.prototype={
 aq(){return new A.t5(B.p)}}
 A.t5.prototype={
@@ -51381,7 +51381,7 @@ return A.Z($async$kW,r)},
 J(a){var s,r,q=this,p=null,o=A.ak(a).ax,n=o.k2
 o=n==null?o.c:n
 q.a.toString
-n=A.Sh("Flutter Demo Home Page",p)
+n=A.Sh("pipe devtool",p)
 s=q.e
 if(s!=null){s=q.K9(s)
 r=q.e
